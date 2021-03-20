@@ -1,5 +1,8 @@
 /*
-Ejercicio guiado: Juego de Nim. 
+Ejercicio guiado: Juego de Nim.
+
+Fecha: 20/03/2021
+Alumno: Rafael Chamorro Maceiras
  */
 package rcm12;
 

@@ -3,6 +3,8 @@ Haz una nueva versión del programa anterior con un menú superior llamado Confi
 opciones, una para establecer el número de móvil, otra para el coste de establecimiento de llamada
 y una última para establecer el coste por minuto de llamada. Pueden ser necesarios setters en la
 clase MovilPrepago_v3
+
+Fecha: 20/03/2021
 Alumno: Rafael Chamorro Maceiras
  */
 package rcm12;
