@@ -1,7 +1,16 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Realizar un programa con una lista con los nombres de
+los alumnos de una clase (inicialmente vacía). El programa
+dispondrá de un botón para añadir a la lista (mediante un
+diálogo pedirá el nombre a usuario), un botón para eliminar el
+elemento seleccionado de la lista (si no hay ninguno muestra un
+mensaje en un diálogo), un botón para modificar un elemento
+seleccionado (solicitará el nuevo nombre con un dialogo para
+introducirlo) y finalmente un botón para vaciar la lista (este
+botón pedirá confirmación mediante un diálogo).
+
+Fecha: 19/03/2021
+Alumno: Rafael Chamorro Maceiras
  */
 package rcm12;
 
